@@ -15,7 +15,7 @@ header, footer {
 
 header {
   font-family: 'Teko', sans-serif;
-  color: #fff;
+  color: #ffc60c;
   min-height: 100vh;
   display: flex;
 }
@@ -42,7 +42,7 @@ h1 {
 
 h2 {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
@@ -50,7 +50,7 @@ h2 {
   padding: 10px 20px 0 20px;
 }
 
-img {
+img, iframe {
   width: 100%;
   height: 50vh;
   object-fit: cover;
@@ -67,7 +67,7 @@ img {
 .bio {
 color: #ffffff;
 font-size: 24px;
-font-family: 'Teko', sans-serif;;
+font-family: 'Teko', sans-serif;
 }
 
 .buttonBox {
@@ -80,7 +80,7 @@ font-family: 'Teko', sans-serif;;
   border-radius: 28px;
   border: 1px solid #ffffff;
   cursor: pointer;
-  color: #ffffff;
+  color: #ffc60c;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -101,19 +101,19 @@ font-family: 'Teko', sans-serif;;
   width: 100%;
 }
 
-.a {
-  color: #343434;
+a {
+  color: #977c00;
 
 }
 
 .description {
-  font-family: 'Teko', sans-serif;;
-  font-size: 14px;
+  font-family: 'Teko', sans-serif;
+  font-size: 18px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #4a4a4a;
+  color: #3b3b3b;
   padding: 0 20px 20px 20px;
 }
 
