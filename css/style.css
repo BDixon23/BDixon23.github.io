@@ -34,7 +34,7 @@ main {
 
 h1 {
   font-family: 'Ubuntu', sans-serif;
-  font-size: calc(1em + 3vw);
+  font-size: calc(2em + 4vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
   line-height: 1.3;
